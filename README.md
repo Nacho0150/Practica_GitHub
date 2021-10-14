@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Nacho
 =======
 # Practica_GitHub
