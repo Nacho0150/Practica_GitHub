@@ -5,6 +5,4 @@ DarioMortarotti
 =======
 German
 =======
-DarioMortarotti
-=======
 David
